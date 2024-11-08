@@ -1,0 +1,12 @@
+{
+    "name": "Todo chrome extension",
+    "version": "0.1.0",
+    "description": "Todo app making first chrome extension using storage chrome api",
+    "permissions": ["storage"],
+    "action": {
+      "default_icon": "assets/ext-icon.png",
+      "default_title": "Todo chrome extension",
+      "default_popup": "popup.html"
+    },
+    "manifest_version": 3
+}
